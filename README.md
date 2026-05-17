@@ -1,6 +1,6 @@
 # bptracker-to-healthplanet
 
-[bptracker](https://play.google.com/store/apps/details?id=com.aadhk.lite.bptracker) アプリのエクスポートデータ（SQLite3）を [Health Planet](https://www.healthplanet.jp/) の血圧入力画面へ自動転記するスクリプト。
+[aadhk Blood Pressure Tracker](https://play.google.com/store/apps/details?id=com.aadhk.lite.bptracker) アプリのエクスポートデータ（SQLite3）を [Health Planet](https://www.healthplanet.jp/) の血圧入力画面へ自動転記するスクリプト。
 
 Health Planet に API がないため Playwright によるブラウザ自動操作を使用する。
 
