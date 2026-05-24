@@ -1,0 +1,4 @@
+inputDate (yyyy/MM/dd),memo,weight (<250kg),bodyFat (<=100%),good,bad,eating,drinking,guided,sport,starMark
+2021/12/10,,70.8,19.2,false,false,false,false,false,false,false
+2021/12/11,,68.5,19.1,false,false,false,false,false,false,false
+2021/12/12,,68.8,19.0,false,false,false,false,false,false,false
